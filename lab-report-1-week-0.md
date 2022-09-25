@@ -1,1 +1,1 @@
-![Image](http://url/screenshot2022-09-24 18.58.06.png)
+![Image](http://url/screenshot2022-09-24.png)
