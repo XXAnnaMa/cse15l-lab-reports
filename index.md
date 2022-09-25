@@ -5,7 +5,11 @@
 **Bold**
 # Heading 1
 ## Heading 2
+<<<<<<< HEAD
 【Lab Report 1]（https://xxannama.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+=======
+[Lab Report 1](https://xxannama.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+>>>>>>> 2cc7a9c12095e9f9fc5521625f7456de6b37c7e7
 > Blockquote
 * List
 * List
