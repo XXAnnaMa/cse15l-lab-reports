@@ -1,7 +1,5 @@
 Hello, world!
-***
 *Italic*
-***
 **Bold**
 # Heading 1
 ## Heading 2
@@ -11,16 +9,12 @@ Hello, world!
 * List
 * List
 * List
-***
 1. One
 2. Two
 3. Three
-***
 Horizontal rule:
 ---
-***
 `Inline code` with backticks
-***
 ```
 # code block
 print '3 backticks or'
