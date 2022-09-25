@@ -1,4 +1,6 @@
-Hello, world!
+#Hello, world!
+
+**this** formatting updates _as I type_
 *Italic*
 **Bold**
 # Heading 1
