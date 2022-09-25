@@ -5,7 +5,7 @@
 **Bold**
 # Heading 1
 ## Heading 2
-[Link](http://a.com)
+[Link](https://xxannama.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 ![Image](http://url/a.png)
 > Blockquote
 * List
