@@ -66,6 +66,7 @@ class SearchEngine
 ```
 
 ![Image](2022-10-14%2019.47.07.png)
+
 The method “handleRequest(URL url)” is called.
 
 The value of argument("url") is "/". Initially, additional fields can be added to raise references to other functions such as add and search.
@@ -73,6 +74,7 @@ The value of argument("url") is "/". Initially, additional fields can be added t
 The value of field("str") is "Nothing Show Off!". Changing the value of "str" will make the argument "/" (or empty) different characters like on the web page.
 
 ![Image](2022-10-14%2019.06.08.png)
+
 The method “handleRequest(URL url)” is called.
 
 The value of arguments("url") are "/add?s=apple" . Change the fields after "/add?s=" to add different elements into the array list.
@@ -83,6 +85,7 @@ The screenshot below is the result of converting this value to "pineapple".
 
 
 ![Image](2022-10-14%2019.07.06.png)
+
 The method “handleRequest(URL url)” is called.
 
 The value of arguments("url") are "/search?s=app" . Changing fields after "/search?s=" will return a different array list on the web page.
@@ -127,6 +130,7 @@ The symptom (the failing test output):
 
 The bug is,
 ![Image](2022-10-14%2018.03.44.png)
+
 (I wrote the comment "shoud delete 0" after the bug.)
 
 The fixed method:
