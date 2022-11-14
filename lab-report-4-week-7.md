@@ -35,8 +35,8 @@ vim DocSearchServer.java
 
 **Part 2**
 
-*Editing on vim: 53 seconds (after a few times practice)
-*Editing on VS Code: 1 minute 34 seconds
+* Editing on vim: 53 seconds (after a few times practice)
+* Editing on VS Code: 1 minute 34 seconds
 
 By comparing the two editing methods，I prefer to use vim because it has fewer steps and takes less time.
 
