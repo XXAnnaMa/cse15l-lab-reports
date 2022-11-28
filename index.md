@@ -14,6 +14,8 @@ Hello, world! This is Anna Ma!
 
 [Lab Report 4](https://xxannama.github.io/cse15l-lab-reports/lab-report-4-week-7.html)
 
+[Lab Report 5](https://xxannama.github.io/cse15l-lab-reports/lab-report-5-week-9.html)
+
 > Blockquote
 
 * List
